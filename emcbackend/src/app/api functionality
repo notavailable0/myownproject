@@ -1,0 +1,27 @@
+create user
+get specific user
+update existing user
+delete specific user
+get all users
+todo: search for a specific id
+
+create a fl word
+get specific fl word
+update specific fl word
+delete specific fl word
+get all fl words
+todo: search for a specific word
+
+create new cl record
+get specific cl word
+update existing cl word
+delete specific cl word
+get all cl words
+todo: search for a specific word
+
+create dk key
+read dk key
+update dk key
+delete dk key
+todo: search for key by status
+    list all working etc.
